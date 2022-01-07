@@ -24,6 +24,10 @@ CPU:       	Hexa core Intel Xeon E5-1650 v4 (-HT-MCP-) speed/max: 1809/4000 MHz<
 Graphics:  	Card: NVIDIA GP106GL [Quadro P2000], Display Server: N/A driver: N/A tty size: 160x46 Advanced <br>
 Network:   	Card: Intel Ethernet Connection (2) I218-LM driver: e1000e<br>
 Drives:    	HDD Total Size: 1024.2GB<br>
+Memory:   Array-1 capacity: 1 TB (check) devices: 8 EC: Multi-bit ECC<br>
+            Device-1: DIMM_1 size: 8 GB speed: 2400 MHz type: DDR4<br>
+            Device-3: DIMM_3 size: 8 GB speed: 2400 MHz type: DDR4<br>
+            Device-5: DIMM_2 size: 16 GB speed: 2400 MHz type: DDR4<br>
 </blockquote>
 <p>
 This lab is based on a bare metal install of the EVE-NG Community Edition. It may be run within VMWare Workstation and other hypervisors. Resource utilization, on above server specifications, for this lab/system:
